@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Dummy EPG">
 
-  <channel id="NBC BOSTON NEWS">
+  <!-- ================================================= -->
+
+    <channel id="NBC BOSTON NEWS">
     <display-name>NBC Boston 24/7 News</display-name>
   </channel>
 
@@ -21,7 +23,7 @@
     <desc>Continuous local news coverage.</desc>
   </programme>
 
-<!-- ================================================= -->
+  <!-- ================================================= -->
   
     <channel id="NBC LOS ANGELES NEWS">
     <display-name>NBC Los Angeles 24/7 News</display-name>
