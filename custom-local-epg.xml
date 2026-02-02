@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Dummy EPG">
 
-  <channel id="NBC_BOSTON_247">
+  <channel id="NBC BOSTON News">
     <display-name>NBC Boston 24/7 News</display-name>
   </channel>
 
@@ -11,7 +11,7 @@
   </programme>
 
 
-  <channel id="NBC_CHICAGO_247">
+  <channel id="NBC CHICAGO News">
     <display-name>NBC Chicago 24/7 News</display-name>
   </channel>
 
