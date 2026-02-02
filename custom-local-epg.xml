@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Dummy EPG">
+
+  <channel id="NBC_BOSTON_247">
+    <display-name>NBC Boston 24/7 News</display-name>
+  </channel>
+
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_BOSTON_247">
+    <title>NBC Boston 24/7 News</title>
+    <desc>Continuous local news coverage.</desc>
+  </programme>
+
+
+  <channel id="NBC_CHICAGO_247">
+    <display-name>NBC Chicago 24/7 News</display-name>
+  </channel>
+
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_CHICAGO_247">
+    <title>NBC Chicago 24/7 News</title>
+    <desc>Continuous local news coverage.</desc>
+  </programme>
+
+</tv>
