@@ -1,23 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Dummy EPG">
 
-  <channel id="NBC BOSTON News">
+  <channel id="NBC BOSTON NEWS">
     <display-name>NBC Boston 24/7 News</display-name>
   </channel>
 
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_BOSTON_247">
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC BOSTON NEWS">
     <title>NBC Boston 24/7 News</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
+  <!-- ================================================= -->
 
-  <channel id="NBC CHICAGO News">
+  <channel id="NBC CHICAGO NEWS">
     <display-name>NBC Chicago 24/7 News</display-name>
   </channel>
 
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_CHICAGO_247">
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC CHICAGO NEWS">
     <title>NBC Chicago 24/7 News</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
+<!-- ================================================= -->
+  
+    <channel id="NBC LOS ANGELES NEWS">
+    <display-name>NBC Los Angeles 24/7 News</display-name>
+  </channel>
+
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC LOS ANGELES NEWS">
+    <title>NBC Los Angeles 24/7 News</title>
+    <desc>Continuous local news coverage.</desc>
+  </programme>
+
+  <!-- ================================================= -->
+  
+    <channel id="NBC NEW YORK NEWS">
+    <display-name>NBC New York 24/7 News</display-name>
+  </channel>
+
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC NEW YORK NEWS">
+    <title>NBC New York 24/7 News</title>
+    <desc>Continuous local news coverage.</desc>
+  </programme>
+
+  <!-- ================================================= -->
+
+    <channel id="NBC PHILADELPHIA NEWS">
+    <display-name>NBC Philadelphia 24/7 News</display-name>
+  </channel>
+
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC PHILADELPHIA NEWS">
+    <title>NBC Philadelphia 24/7 News</title>
+    <desc>Continuous local news coverage.</desc>
+  </programme>
+
+  <!-- ================================================= -->
+
+      <channel id="NBC SOUTH FLORIDA NEWS">
+    <display-name>NBC South Florida 24/7 News</display-name>
+  </channel>
+
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC SOUTH FLORIDA NEWS">
+    <title>NBC South Florida 24/7 News</title>
+    <desc>Continuous local news coverage.</desc>
+  </programme>
+
+  <!-- ================================================= -->
+  
+  
 </tv>
