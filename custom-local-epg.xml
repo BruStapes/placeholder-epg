@@ -3,71 +3,64 @@
 
   <!-- ================================================= -->
 
-    <channel id="NBC BOSTON NEWS">
+  <channel id="NBC_BOSTON_NEWS">
     <display-name>NBC Boston 24/7 News</display-name>
   </channel>
-
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC BOSTON NEWS">
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_BOSTON_NEWS">
     <title>NBC Boston 24/7 News</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
   <!-- ================================================= -->
 
-  <channel id="NBC CHICAGO NEWS">
+  <channel id="NBC_CHICAGO_NEWS">
     <display-name>NBC Chicago 24/7 News</display-name>
   </channel>
-
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC CHICAGO NEWS">
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_CHICAGO_NEWS">
     <title>NBC Chicago 24/7 News</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
   <!-- ================================================= -->
-  
-    <channel id="NBC LOS ANGELES NEWS">
+
+  <channel id="NBC_LOS_ANGELES_NEWS">
     <display-name>NBC Los Angeles 24/7 News</display-name>
   </channel>
-
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC LOS ANGELES NEWS">
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_LOS_ANGELES_NEWS">
     <title>NBC Los Angeles 24/7 News</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
   <!-- ================================================= -->
-  
-    <channel id="NBC NEW YORK NEWS">
+
+  <channel id="NBC_NEW_YORK_NEWS">
     <display-name>NBC New York 24/7 News</display-name>
   </channel>
-
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC NEW YORK NEWS">
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_NEW_YORK_NEWS">
     <title>NBC New York 24/7 News</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
   <!-- ================================================= -->
 
-    <channel id="NBC PHILADELPHIA NEWS">
+  <channel id="NBC_PHILADELPHIA_NEWS">
     <display-name>NBC Philadelphia 24/7 News</display-name>
   </channel>
-
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC PHILADELPHIA NEWS">
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_PHILADELPHIA_NEWS">
     <title>NBC Philadelphia 24/7 News</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
   <!-- ================================================= -->
 
-      <channel id="NBC SOUTH FLORIDA NEWS">
+  <channel id="NBC_SOUTH_FLORIDA_NEWS">
     <display-name>NBC South Florida 24/7 News</display-name>
   </channel>
-
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC SOUTH FLORIDA NEWS">
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_SOUTH_FLORIDA_NEWS">
     <title>NBC South Florida 24/7 News</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
   <!-- ================================================= -->
-  
-  
+
 </tv>
