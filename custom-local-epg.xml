@@ -63,4 +63,13 @@
 
   <!-- ================================================= -->
 
+  <channel id="EUROSPORT_2_UK">
+    <display-name>Eurosport 2 UK</display-name>
+  </channel>
+  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="EUROSPORT_2_UK">
+    <title>Eurosport 24/7 Sports Variety Coverage</title>
+    <desc>Continuous global sports coverage.</desc>
+  </programme>
+
+  <!-- ================================================= -->
 </tv>
