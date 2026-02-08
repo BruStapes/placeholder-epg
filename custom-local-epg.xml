@@ -63,18 +63,8 @@
 
   <!-- ================================================= -->
 
-  <channel id="NL__RTV_M">
-    <display-name>RTV Maastricht</display-name>
-  </channel>
-  <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NL__RTV_M">
-    <title>RTV Maastricht - 24/7</title>
-    <desc>Nieuws, sport & gevarieerd aanbod.</desc>
-  </programme>
-
-  <!-- ================================================= -->
-  
   <channel id="NL_RTV_M">
-    <display-name>RTV Maastricht</display-name>
+    <display-name>NL RTV Maastricht</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NL_RTV_M">
     <title>RTV Maastricht - 24/7</title>
