@@ -7,7 +7,7 @@
     <display-name>NBC Boston 10 News (24/7)</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_BOSTON_NEWS">
-    <title>NBC Boston 24/7 News</title>
+    <title>NBC Boston 10 News (24/7)</title>
     <desc>Continuous local news coverage.</desc>
   </programme>
 
