@@ -3,7 +3,7 @@
 
   <!-- ================================================= -->
 
-  <channel id="NBC BOSTON NEWS">
+  <channel id="NBC_BOSTON_NEWS">
     <display-name>NBC Boston 10 News (24/7)</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_BOSTON_NEWS">
