@@ -7,7 +7,7 @@
     <display-name>NBC BOSTON NEWS</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_BOSTON_NEWS">
-    <title>NBC 10 Boston News</title>
+    <title>NBC 10 Boston News (24/7)</title>
     <desc>Local Boston 24/7 news coverage.</desc>
   </programme>
 
@@ -17,7 +17,7 @@
     <display-name>NBC CHICAGO NEWS</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_CHICAGO_NEWS">
-    <title>NBC 5 Chicago News</title>
+    <title>NBC 5 Chicago News (24/7)</title>
     <desc>Local Chicago 24/7 news coverage.</desc>
   </programme>
 
@@ -27,7 +27,7 @@
     <display-name>NBC LOS ANGELES NEWS</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_LOS_ANGELES_NEWS">
-    <title>NBC Los Angeles News</title>
+    <title>NBC Los Angeles News (24/7)</title>
     <desc>Local Los Angeles 24/7 news coverage.</desc>
   </programme>
 
@@ -37,7 +37,7 @@
     <display-name>NBC NEW YORK NEWS</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_NEW_YORK_NEWS">
-    <title>NBC 4 New York News</title>
+    <title>NBC 4 New York News (24/7)</title>
     <desc>Local New York 24/7 news coverage.</desc>
   </programme>
 
@@ -47,7 +47,7 @@
     <display-name>NBC PHILADELPHIA NEWS</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_PHILADELPHIA_NEWS">
-    <title>NBC 10 Philadelphia News</title>
+    <title>NBC 10 Philadelphia News (24/7)</title>
     <desc>2Local Philadelphia 24/7 news coverage.</desc>
   </programme>
 
@@ -57,7 +57,7 @@
     <display-name>NBC SOUTH FLORIDA NEWS</display-name>
   </channel>
   <programme start="20260101000000 +0000" stop="20301231235959 +0000" channel="NBC_SOUTH_FLORIDA_NEWS">
-    <title>NBC 6 South Florida News</title>
+    <title>NBC 6 South Florida News (24/7)</title>
     <desc>Local South Florida 24/7 news coverage.</desc>
   </programme>
 
